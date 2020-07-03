@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is the front end a movie metadata site that let's users search for specific movie titles and get information about them.
 
 ## Available Scripts
 
